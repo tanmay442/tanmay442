@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Tanmay 👋
 
-<!--
-**tanmay442/tanmay442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital workspace! I use this GitHub profile as a personal archive to publish code I don't want to lose. You'll find a mix of things I find interesting to build, random fun experiments, and everyday utilities. 
 
-Here are some ideas to get you started:
+If you stumble upon any code here that you find useful or valuable, feel free to use it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 What I'm Building: Philosophy Spread
+
+Right now, my main focus is building **[Philosophy Spread](https://philosophyspread.vercel.app/)**. 
+
+It is a community-driven initiative designed to make philosophical teachings, critical logic, and thought experiments accessible to everyone. From exploring the nuances of consciousness to breaking down complex ideologies, I am coding this platform from the ground up to foster deeper thinking and curiosity across the internet. 
+
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** JavaScript, TypeScript, Python, Rust
+- **Backend & Data:** Database Management
+
+## 🤝 Connect & Support
+
+Building platforms and maintaining open-source code takes time and caffeine. If you find my repositories useful, or if you want to support the *Philosophy Spread* initiative, I would deeply appreciate your support! 
+
+* ☕ **Support my work:** [Buy Me a Coffee](https://buymeacoffee.com/gtanmay)
+* 🌐 **My Website:** [Philosophy Spread](https://philosophyspread.vercel.app/)
+* 📸 **Instagram:** [@gtanmay442](https://www.instagram.com/gtanmay442/)
+
+---
+*"Exploring Wisdom, Inspiring Minds."*

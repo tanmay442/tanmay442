@@ -4,8 +4,6 @@ I use this GitHub profile as a personal archive to publish code I don't want to 
 
 If you stumble upon any code here that you find useful or valuable, feel free to use it!
 
-Right now, my main focus is building **[Philosophy Spread](https://philosophyspread.vercel.app/)**. 
-
 ## 🤝 Connect & Support
 
 * ☕ **Support my work:** [Buy Me a Coffee](https://buymeacoffee.com/gtanmay)
@@ -15,4 +13,5 @@ Right now, my main focus is building **[Philosophy Spread](https://philosophyspr
 
 
 ---
+Right now, my main focus is building **[Philosophy Spread](https://philosophyspread.vercel.app/)**.
 *"Exploring Wisdom, Inspiring Minds."*

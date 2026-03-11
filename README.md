@@ -14,4 +14,5 @@ If you stumble upon any code here that you find useful or valuable, feel free to
 
 ---
 Right now, my main focus is building **[Philosophy Spread](https://philosophyspread.vercel.app/)**.
+
 *"Exploring Wisdom, Inspiring Minds."*

@@ -7,7 +7,6 @@ If you stumble upon any code here that you find useful or valuable, feel free to
 ## 🤝 Connect & Support
 
 * ☕ **Support my work:** [Buy Me a Coffee](https://buymeacoffee.com/gtanmay)
-* 📸 **Instagram:** [@gtanmay442](https://www.instagram.com/gtanmay442/)
 * 📧 **Mail:** [@gtanmay442](mailto:goeltanmay442@outlook.com)
 
 ---

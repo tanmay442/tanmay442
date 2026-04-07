@@ -10,6 +10,6 @@ If you stumble upon any code here that you find useful or valuable, feel free to
 * 📧 **Mail:** [@gtanmay442](mailto:goeltanmay442@outlook.com)
 
 ---
-Right now, my main focus is building **[Philosophy Spread](https://philosophyspread.vercel.app/)**.
+Right now, my main focus is building **[Philosophy Spread](https://philosophyspread.live/)**.
 
 *"Exploring Wisdom, Inspiring Minds."*

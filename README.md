@@ -1,15 +1,7 @@
-# Hi there, I'm Tanmay 👋
+hi, i'm tanmay.
 
-I use this GitHub profile as a personal archive to publish code I don't want to lose. You'll find a mix of things I find interesting to build, random fun experiments, and everyday utilities. 
+linux // data pipelines & workflows // Ui that looks good
 
-If you stumble upon any code here that you find useful or valuable, feel free to use it!
+building [philosophy spread](https://philosophyspread.live/) // exploring wisdom, inspiring minds
 
-## 🤝 Connect & Support
-
-* ☕ **Support my work:** [Buy Me a Coffee](https://buymeacoffee.com/gtanmay)  [Be a GithubSponsor](https://github.com/sponsors/tanmay442)
-* 📧 **Mail:** [@gtanmay442](mailto:goeltanmay442@outlook.com)
-
----
-Right now, my main focus is building **[Philosophy Spread](https://philosophyspread.live/)**.
-
-*"Exploring Wisdom, Inspiring Minds."*
+[sponsor](https://github.com/sponsors/tanmay442) | [coffee](https://buymeacoffee.com/gtanmay) | [email](mailto:goeltanmay442@outlook.com) | [twitter](https://x.com/TanmayGoel442)

@@ -1,6 +1,6 @@
 hi, i'm tanmay.
 
-linux larp // data pipelines & workflows // Ui that try's tolooks good
+linux larp // data pipelines & workflows // Ui that try's to looks good
 
 Agentic Systems
 

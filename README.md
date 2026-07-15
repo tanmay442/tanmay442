@@ -1,6 +1,8 @@
 hi, i'm tanmay.
 
-linux // data pipelines & workflows // Ui that looks good
+linux larp // data pipelines & workflows // Ui that try's tolooks good
+
+Agentic Systems
 
 building [philosophy spread](https://philosophyspread.live/) // exploring wisdom, inspiring minds
 

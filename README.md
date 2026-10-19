@@ -8,4 +8,4 @@ building [philosophy spread](https://philosophyspread.live/) // exploring wisdom
 
 [sponsor](https://github.com/sponsors/tanmay442) | [coffee](https://buymeacoffee.com/gtanmay) | [email](mailto:goeltanmay442@gmail.com) | [twitter](https://x.com/TanmayGoel442)
 
-[resume@web.pdf](resume@web.pdf) | [resume@ai-data.pdf](resume@ai-data.pdf) | [resume@combined.pdf](resume@combined.pdf)
+[TanmayGoel@Resume_web.pdf](TanmayGoel@Resume_web.pdf) | [TanmayGoel@Resume_ai-data.pdf](TanmayGoel@Resume_ai-data.pdf) | [TanmayGoel@Resume_combined.pdf](TanmayGoel@Resume_combined.pdf)

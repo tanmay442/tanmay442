@@ -6,6 +6,6 @@ Agentic Systems
 
 building [philosophy spread](https://philosophyspread.live/) // exploring wisdom, inspiring minds
 
-[sponsor](https://github.com/sponsors/tanmay442) | [coffee](https://buymeacoffee.com/gtanmay) | [email](mailto:goeltanmay442@outlook.com) | [twitter](https://x.com/TanmayGoel442)
+[sponsor](https://github.com/sponsors/tanmay442) | [coffee](https://buymeacoffee.com/gtanmay) | [email](mailto:goeltanmay442@gmail.com) | [twitter](https://x.com/TanmayGoel442)
 
-[combined](resume@combined.pdf) | [web](resume@web.pdf) | [ai & data](resume@ai-data.pdf)
+[resume@web.pdf](resume@web.pdf) | [resume@ai-data.pdf](resume@ai-data.pdf) | [resume@combined.pdf](resume@combined.pdf)
